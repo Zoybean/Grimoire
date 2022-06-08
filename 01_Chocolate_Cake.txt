@@ -1,0 +1,25 @@
+Chocolate Cake
+-----
+dry: {
+    1.5 cup plain flour
+    1.5 cup brown sugar
+    6 Tbsp cocoa
+    1.5 tsp bicarb soda
+}
+wet: {
+    1.5 cup water
+    1/2 cup oil
+    3 Tbsp white vinegar
+    4 tsp vanilla
+}
+75g chocolate, chopped
+
+Preheat oven to 180 C
+Combine dry ingredients
+Add wet to dry, mix
+Stir in chocolate
+Bake 25-30 minutes
+Poke holes with a skewer so syrup / icing sinks in
+
+
+

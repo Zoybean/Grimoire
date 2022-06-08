@@ -1,0 +1,24 @@
+Anzac Biscuits
+-----
+dry: {
+    1+1/4 cup flour
+    1 cup oats
+    1/2 cup sugar
+    3/4 cup coconut
+}
+2 Tbsp golden syrup
+150g butter
+mixed: {
+    1/2 tsp bicarb soda
+    1+1/2 Tbsp water
+}
+
+Preheat oven to 180 C
+Combine dry ingredients
+Heat syrup + butter over low heat until melted
+Add water + bicarb mixture to pan, remove from heat, stir
+Pour wet into dry, combine thoroughly
+Bake 12 minutes
+
+
+
