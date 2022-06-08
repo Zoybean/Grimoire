@@ -1,0 +1,77 @@
+Vegan recipe Grimoire
+=====
+
+Numbered Contents
+-----
+00 - Title & Contents
+01 - Chocolate Cake
+02 - Chocolate Syrup Icing
+03 - Potato Leek Soup
+04 - Chocolate Cookies
+05 - Mug Cake
+06 - Anzac Biscuits
+07 - Coconut Jam Drops Macaroons
+08 - Chocolate Chip Cookies
+09 - Hot Chocolate
+10 - Coconut Cake
+11 - Vanilla Frosting
+12 - Caramel Cake
+13 - Caramel Buttercream
+14 - Chocolate Ganache Icing
+15 - Vanilla Cupcakes
+16 - Lemon Sunshine Cake and Icing
+17 - Small Tips
+18 - Cheesecake
+19 - Coconut Oil Cookies
+20 - Chocolate Cupcakes
+21 - Orange Poppyseed Cake and Orange Buttercream Frosting
+22 - Peppermint Slice
+23 - Peanut Butter Biscuits
+24 - Coconut Whipped Cream
+
+Todo:
+-----
+25 - Strawberries & Cream Cake
+26 - Vanilla Cake
+27 - Coffee Cake
+28 - Apple Spice Cake
+29 - Maple Buttercream Frosting
+30 - Chocolate Yule Log
+31 - Chocolate Frosting
+32 - Apple Crumble Topping
+33 - Gingerbread Cookies
+34 - Hot Spiced Apple Cider
+35 - Lemon Dessert Sauce
+36 - Lemon Pound Cake
+37 - Cashew Cheese
+38 - Sticky Pear Pudding
+39 - Caramel Sauce
+40 - Potato & Leek Quiche
+41 - Baked Cheesecake
+42 - Peach Cake
+43 - Lentil Dahl
+44 - Pie Crust
+45 - Banana Bread
+46 - Shortbread
+47 - Puppy Chow
+48 - Buffalo Cauliflower
+49 - Chai Cake
+50 - Hot Cross Buns (Ingredients)
+51 - Hot Cross Buns (Method)
+52 - Pie Crust 2
+53 - Lemon Curd
+54 - Cream Cheese Frosting
+55 - Strawberry Cake
+
+
+Un-numbered:
+-----
+Non-Vegan Pancakes
+Vegan Pancakes 1
+Vegan Pancakes 2
+
+Notes:
+-----
+22 - Peppermint Slice
+    what is icing mixture? is it just icing sugar?
+    what do we line the pan with?
