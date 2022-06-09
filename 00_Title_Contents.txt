@@ -31,7 +31,7 @@ Numbered Contents
 
 Todo:
 -----
-25 - Strawberries & Cream Cake
+25 - Strawberries & Cream Cake - skip this one, just use the vanilla cake recipe + strawberries
 26 - Vanilla Cake
 27 - Coffee Cake
 28 - Apple Spice Cake
@@ -72,6 +72,3 @@ Vegan Pancakes 2
 
 Notes:
 -----
-22 - Peppermint Slice
-    what is icing mixture? is it just icing sugar?
-    what do we line the pan with?
